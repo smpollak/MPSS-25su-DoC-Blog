@@ -4,16 +4,16 @@ date: 2024-05-14
 draft: false
 description: "Our Idea"
 slug: "phase1post"
-tags: ["authors", "config", "docs"]
+tags: ["project", "Setup"]
 authors:
   - "eric_gerber"
   - "mark_fontenot"
-showAuthorsBadges : false
+showAuthorsBadges: false
 ---
 
 # Introduction
 
-Hi, We are Team Leuven!  **This is bold text**, and this is *emphasized* text. 
+Hi, We are Team Leuven! **This is bold text**, and this is _emphasized_ text.
 
 - here
 - are
@@ -25,6 +25,6 @@ Hi, We are Team Leuven!  **This is bold text**, and this is *emphasized* text.
 
 Can you see this?
 
-## This is a Level 2 heading 
+## This is a Level 2 heading
 
 Wait, can you hear me now?
