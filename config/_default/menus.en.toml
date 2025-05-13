@@ -20,21 +20,27 @@
   weight = 20
 
 [[main]]
-  name = "Eric Gerber"
+  name = "Michael Song"
   parent = "Team Members"
-  pageRef = "EricGerber"
+  pageRef = "michaelsong"
   weight = 20
 
 [[main]]
-  name = "Mark Fontenot"
+  name = "Sam Pollak"
   parent = "Team Members"
-  pageRef = "MarkFontenot"
+  pageRef = "sampollak"
   weight = 20
 
 [[main]]
-  name = "A New Guy"
+  name = "Paulo Martinez-Amezaga"
   parent = "Team Members"
-  pageRef = "ANewGuy"
+  pageRef = "PauloMartinez-Amezaga"
+  weight = 20
+
+  [[main]]
+  name = "Sean Blundin"
+  parent = "Team Members"
+  pageRef = "SeanBlundin"
   weight = 20
 
 #[[main]]
