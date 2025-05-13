@@ -6,7 +6,7 @@ description: "Databases Rock"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
-  - "mark_fontenot"
+  - "Paulo Martinez-Amezaga"
 showAuthorsBadges : false
 ---
 
