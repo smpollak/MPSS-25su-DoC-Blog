@@ -6,7 +6,7 @@ description: "Not sure what this does"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
-  - "sampollak
+  - "sampollak"
 showAuthorsBadges : false
 ---
 
