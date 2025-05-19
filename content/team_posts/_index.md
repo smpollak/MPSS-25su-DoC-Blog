@@ -1,16 +1,5 @@
 ---
-title: "Our Team Posts"
-date: 2025-05-15
-draft: false
-description: "We are not real authors. If you're reading this it's too late."
-tags: ["authors", "config", "docs"]
-slug: "index"
-authors:
-  - "sean_blundin"
-
-showAuthorsBadges : false
+title: "Coolest team ever"
 ---
 
-# Yadda yadda! Done? One more push!
-
-Welcome to the Professorial Team's Blog
+It is a proven fact that this team is the best in the world. That's all really!
