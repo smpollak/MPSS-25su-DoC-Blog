@@ -1,0 +1,16 @@
+---
+title: "Our Team Posts"
+date: 2025-05-15
+draft: false
+description: "We are not real authors. If you're reading this it's too late."
+tags: ["authors", "config", "docs"]
+slug: "index"
+authors:
+  - "sean_blundin"
+
+showAuthorsBadges : false
+---
+
+# Yadda yadda! Done? One more push!
+
+Welcome to the Professorial Team's Blog
