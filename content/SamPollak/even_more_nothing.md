@@ -1,12 +1,12 @@
 ---
-title: "Even_More_Nothing"
+title: "Sam needs to update this lame article"
 date: 2025-05-13
 draft: false
 description: "Not sure what this does"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
-  - "sampollak"
+  - "sam_pollak"
 showAuthorsBadges : false
 ---
 

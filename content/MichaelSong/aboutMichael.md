@@ -6,7 +6,7 @@ description: "hello"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
-  - "michaelsong"
+  - "michael_song"
 showAuthorsBadges : false
 ---
 
