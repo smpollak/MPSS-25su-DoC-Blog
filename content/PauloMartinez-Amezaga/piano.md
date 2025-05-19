@@ -6,7 +6,7 @@ description: "I play, do you?"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
-  - "Paulo Martinez-Amezaga"
+  - "paulo_martinez_amezaga"
 showAuthorsBadges : false
 ---
 

@@ -2,4 +2,4 @@
 title: "Professor Sean Blundin"
 ---
 
-Hi, I'm Sean Blundin, and I'm about to find out if I love databases!
+Hi, I'm Sean Blundin, and a fun fact about me is that I go to Northeastern University.
