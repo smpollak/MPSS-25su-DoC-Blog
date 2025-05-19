@@ -1,15 +1,16 @@
 ---
-title: "Project - Phase I"
-date: 2024-05-11
+title: "Our Team Posts"
+date: 2025-05-15
 draft: false
-description: "Our Idea"
+description: "We are not real authors. If you're reading this it's too late."
 tags: ["authors", "config", "docs"]
 slug: "index"
 authors:
-  - "eric_gerber"
+  - "sean_blundin"
+
 showAuthorsBadges : false
 ---
 
-# Welcome to Team WeCanDoThis!
+# Yadda yadda! Done? One more push!
 
 Welcome to the Professorial Team's Blog
