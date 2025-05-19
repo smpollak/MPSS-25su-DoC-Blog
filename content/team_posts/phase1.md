@@ -3,14 +3,14 @@ title: "Project - Phase I - Proposal"
 date: 2025-05-20
 draft: false
 description: "Our proposal for our data science project"
-slug: "phase1post"
 tags: ["project", "Setup"]
+slug: "phase1post"
 authors:
   - "sean_blundin"
   - "paulo_martinez_amezaga"
   - "michael_song"
   - "sam_pollak"
-showAuthorsBadges: true
+showAuthorsBadges: false
 ---
 
 # Proposal: Wealth Inequality App
