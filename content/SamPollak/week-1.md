@@ -1,5 +1,5 @@
 ---
-title: "What I've Learned in My First Week in Leuven"
+title: "What I've Learned in My First Week here in Leuven"
 date: 2025-05-20
 draft: false
 description: "Sam updates the world on his awesome journey"
