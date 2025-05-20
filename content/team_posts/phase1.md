@@ -4,7 +4,7 @@ date: 2025-05-20
 draft: false
 description: "Our proposal for our data science project"
 tags: ["project", "Setup"]
-slug: "randomslugggg"
+slug: "project-phase1-proposal"
 authors:
   - "sean_blundin"
   - "paulo_martinez_amezaga"
