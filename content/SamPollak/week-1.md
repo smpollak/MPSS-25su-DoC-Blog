@@ -1,9 +1,9 @@
 ---
-title: "Sam needs to update this lame article"
-date: 2025-05-13
+title: "What I've Learned in My First Week in Leuven"
+date: 2025-05-20
 draft: false
-description: "Not sure what this does"
-# slug: "first"
+description: "Sam updates the world on his awesome journey"
+slug: "week-1"
 tags: ["authors", "config", "docs"]
 authors:
   - "sam_pollak"
