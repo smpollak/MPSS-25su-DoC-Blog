@@ -31,6 +31,8 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 
 ### **User Story \#1: Civilian Voter** 
 
+![Civilian Voter](/british.png)
+
 * Persona: Prince Maximilian William-Lancelot Robertson III  
   * Demographics:  
     * Voting citizen of UK  
@@ -56,6 +58,8 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 
 ### **User Story \#2: Policymaker/Politician**
 
+![Slimy Politician](/jt.png)
+
 * JT Nance  
   * Demographics:  
     * 40 years old  
@@ -76,6 +80,8 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * As a policymaker, I want to compare multiple countries’ policy outcomes side by side so that I can draw evidence from real-world examples when proposing new legislation.
 
 ### **User Story \#3: Economist**
+
+![Economist](/economist.png)
 
 * Emeka Okonkwo  
   * Demographics:  
@@ -110,6 +116,12 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 **Deep Neural Network:** We seek to build a lightweight DNN in TensorFlow (or perhaps PyTorch) to test its performance vs. logistic regression.
 
 ## Data Sources
+
+### Proof of successful API connections
+
+![Proof of API 1](/proof1.png)
+
+![Proof of API 2](/proof2.png)
 
 **Focusing on data for 2000-2022**
 
