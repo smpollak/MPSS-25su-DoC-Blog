@@ -3,7 +3,7 @@ title: "Project - Phase I - Proposal"
 date: 2025-05-20
 draft: false
 description: "Our proposal for our data science project"
-slug: "phase1post"
+# slug: "phase1post"
 tags: ["project", "Setup"]
 authors:
   - "sean_blundin"
