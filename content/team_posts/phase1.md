@@ -117,6 +117,12 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 
 ## Data Sources
 
+### Proof of successful API connections
+
+![Proof of API 1](/proof1.png)
+
+![Proof of API 2](/proof2.png)
+
 **Focusing on data for 2000-2022**
 
 **Label:**
