@@ -5,12 +5,13 @@ draft: false
 description: "Our proposal for our data science project"
 slug: "phase1post"
 tags: ["project", "Setup"]
+slug: "randomslugggg"
 authors:
   - "sean_blundin"
   - "paulo_martinez_amezaga"
   - "michael_song"
   - "sam_pollak"
-showAuthorsBadges: true
+showAuthorsBadges: false
 ---
 
 # Proposal: Wealth Inequality App
