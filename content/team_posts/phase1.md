@@ -29,8 +29,7 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 
 ***User Personas:** Civilian Voter, Policymaker, Economist, and Data Geek.*
 
-**User Story \#1: Civilian Voter**   
-**LATER INSERT IMAGE HERE**
+### **User Story \#1: Civilian Voter** 
 
 * Persona: Prince Maximilian William-Lancelot Robertson III  
   * Demographics:  
@@ -49,14 +48,13 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * Would like to see a fairer redistribution of wealth in new policy  
     * Does not want to sift through dense policy papers or reports  
     * Wants an easier way to understand the way politicians will affect economic conditions  
-* User stories:  
-  * As a civilian voter, I want a website with a simple design so that I can easily access this product.  
-  * As a civilian voter, I want a website with straightforward metrics and measures of wealth inequality so that I can learn about how political parties might affect future wealth distribution without keeping up with economic journals and analysts.  
-  * As a civilian voter, I want preset inputs, such as the state of the UK in 2001, so that I can compare current metrics to historical economic data without doing my own research about the history of the economy.  
-  * As a civilian voter, I want to be able to input future years and get predicted values for the Gini index so that I can ease my worries about the uncertain direction of our country.  
-  * As a civilian voter, I want to see easy-to-understand visualizations of predicted Gini indexes so that I don’t have to spend time dissecting complicated graphs.
+  * User stories:  
+    * As a civilian voter that lives in the UK, I want a website with information and characteristics that are relevant to me, such as being able to input the UK as a country.  
+    * As a civilian voter, I want a website with straightforward metrics and measures of wealth inequality so that I can learn about how political parties might affect future wealth distribution without keeping up with economic journals and analysts.  
+    * As a civilian voter, I want preset inputs, such as the state of the UK in 2001, so that I can compare current metrics to historical economic data without doing my own research about the history of the economy.  
+    * As a civilian voter, I want to be able to input future years and get predicted values for the Gini index so that I can ease my worries about the uncertain direction of our country.
 
-**User Story \#2: Policymaker/Politician**
+### **User Story \#2: Policymaker/Politician**
 
 * JT Nance  
   * Demographics:  
@@ -77,9 +75,9 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * As a policymaker, I want a tool that explains economic outcomes in plain language and graphs so that I can quickly summarize insights in briefings and policy memos, while also having the flexibility to go deeper in my explorations  
     * As a policymaker, I want to compare multiple countries’ policy outcomes side by side so that I can draw evidence from real-world examples when proposing new legislation.
 
-**User Story \#3: Economist**
+### **User Story \#3: Economist**
 
-* Okonkwo  
+* Emeka Okonkwo  
   * Demographics:  
     * 58 years old  
     * PhD in Economics from Harvard University  
@@ -97,7 +95,9 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * Seeks to learn about machines’ understanding of economics  
     * Wants an easier way to understand the way politicians will affect economic conditions  
   * User stories:  
-    * **As a \[persona\], I want \[feature of our product\] so that \[motivation\]**
+    * As an economist, I want to input a wide range of economic variables with granular precision so that I can simulate some different policy scenarios and their effects on the Gini coefficient.  
+    * I want to compare predicted Gini coefficients across multiple countries and time periods to identify trends and outliers that inform policy discussions.  
+    * I want customizable visualization tools to create detailed graphs that clearly communicate the relationships between variables and wealth inequality to diverse audiences.
 
 ## Models
 
@@ -110,10 +110,6 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 **Deep Neural Network:** We seek to build a lightweight DNN in TensorFlow (or perhaps PyTorch) to test its performance vs. logistic regression.
 
 ## Data Sources
-
-**Bold:** not bold.
-
-Identify 2+ candidate data sources available via scraping or API access that are suitable for the ML tasks/models relevant to the one or more personas use of the application
 
 **Focusing on data for 2000-2022**
 
