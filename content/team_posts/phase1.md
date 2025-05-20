@@ -27,7 +27,7 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
 
 ## User Personas
 
-***User Personas:** Civilian Voter, Policymaker, Economist, and Data Geek.*
+***User Personas:** Civilian Voter, Policymaker, and Economist*
 
 ### **User Story \#1: Civilian Voter** 
 
