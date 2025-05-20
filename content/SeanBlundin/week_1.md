@@ -14,6 +14,8 @@ showAuthorsBadges : false
 
 It's been a rapid-fire start to our time together in Belgium, complete with several trips, side quests, and visits to the Indian restaurant. Immediately first struck by the beauty and college energy of Leuven, my experience has only gotten better as I continue to make new friends and memories and find more cool places around Belgium.
 
+![EU Parliament Building](../../static/images/parliament_eu.jpeg)
+
 ## What I've Learned
 
 My biggest takeaway from our visits to political organizations (NATO, EU, etc.) is how the people within the engine work. They all must be "media trained", sticking to the talking points of the "party" or organization that employs them. Nonetheless, it has been very interesting to hear their responses to questions, and often times it is the *way* that they respond that is even more interesting than the response itself.
