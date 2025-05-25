@@ -41,7 +41,7 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * College degree in English   
     * High school English teacher  
   * Motivations/behavior:  
-    * Watches the news occasionally, but does not follow politics much due to time constraints with his job  
+    * Watches the news occasionally, but does not follow politics much due to time constraints with his job 
     * Is unhappy with the current economic situation in the UK  
     * Does not read any academic articles or journals  
     * Browses Reddit, Twitter, and other online websites/social media  
