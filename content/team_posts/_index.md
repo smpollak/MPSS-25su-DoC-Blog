@@ -1,5 +1,5 @@
 ---
-title: "Coolest team ever"
+title: "Team Posts from SQuAD"
 ---
 
-It is a proven fact that this team is the best in the world. That's all really!
+SQuAD (Strategic Quantitative Advisors for Democracy) empowers voters, politicians, and economists with powerful, interactive, data visualization tools that reveal how policies impact wealth inequality. Read our Team Posts to track our progress.
