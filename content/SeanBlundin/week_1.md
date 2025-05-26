@@ -4,7 +4,7 @@ date: 2025-05-18
 draft: false
 description: "An article reflecting on my first week in Leuven"
 slug: "sean-week-1"
-tags: ["reflection"]
+tags: ["reflections"]
 authors:
   - "sean_blundin"
 showAuthorsBadges : false
