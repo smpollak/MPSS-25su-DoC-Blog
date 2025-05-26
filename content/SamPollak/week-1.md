@@ -4,7 +4,7 @@ date: 2025-05-20
 draft: false
 description: "Sam updates the world on his awesome journey"
 slug: "week-1"
-tags: ["authors", "config", "docs"]
+tags: ["reflections"]
 authors:
   - "sam_pollak"
 showAuthorsBadges : false

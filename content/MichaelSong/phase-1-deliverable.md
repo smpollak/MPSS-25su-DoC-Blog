@@ -4,7 +4,7 @@ date: 2025-05-20
 draft: false
 description: "Deliverable phase 1"
 slug: "michael-first"
-tags: ["authors", "config", "docs"]
+tags: ["reflections"]
 authors:
   - "michael_song"
 showAuthorsBadges : false

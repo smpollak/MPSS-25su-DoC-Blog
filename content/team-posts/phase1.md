@@ -1,9 +1,9 @@
 ---
-title: "Project - Phase I - Proposal"
+title: "Core Proposal - Phase I"
 date: 2025-05-20
 draft: false
-description: "Our proposal for our data science project"
-tags: ["project", "Setup"]
+description: "Our proposal for our data literacy app"
+tags: ["project", "updates"]
 slug: "project-phase1-proposal"
 authors:
   - "sean_blundin"
