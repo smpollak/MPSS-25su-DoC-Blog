@@ -57,13 +57,13 @@
   name = "Tags"
   parent = "More"
   pageRef = "tags"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "GitHub"
   parent = "More"
   pageRef = "https://github.com/smpollak/MPSS-25su-DoC-Blog"
-  weight = 10
+  weight = 30
 
 #[[main]]
 #  name = "Blog"
