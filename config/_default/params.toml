@@ -24,12 +24,13 @@ disableTextInHeader = false
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -44,7 +45,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "leuven.jpeg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts/"
@@ -74,7 +75,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
