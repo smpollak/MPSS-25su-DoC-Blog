@@ -4,7 +4,7 @@ date: 2025-05-20
 draft: false
 description: "Deliverable phase 1"
 slug: "paulo-first"
-tags: ["authors", "config", "docs"]
+tags: ["reflections"]
 authors:
   - "paulo_martinez_amezaga"
 showAuthorsBadges : false
