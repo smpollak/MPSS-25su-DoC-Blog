@@ -2,4 +2,4 @@
 title: "Sam Pollak"
 ---
 
-Hi, I'm Sam. Currently studying Data Science at Northeastern University.
+Hi, I'm Sam. Currently studying Data Science and Economics at Northeastern University.
