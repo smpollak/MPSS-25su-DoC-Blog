@@ -62,7 +62,7 @@
 [[main]]
   name = "GitHub"
   parent = "More"
-  pageRef = "https://github.com/smpollak/MPSS-25su-DoC-Blog"
+  pageRef = "github"
   weight = 30
 
 #[[main]]
