@@ -1,5 +1,5 @@
 ---
-title: "Professor Sean Blundin"
+title: "Sean Blundin"
 ---
 
-Hi, I'm Sean Blundin, and a fun fact about me is that I go to Northeastern University.
+Currently studying Data Science & Business @ Northeastern University. Always happy to talk about neural networks or global politics. See my recent posts below.

@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Team Posts"
-  pageRef = "team_posts" 
+  pageRef = "team-posts" 
   weight = 10
 
 [[main]]
@@ -20,10 +20,14 @@
   weight = 20
 
 [[main]]
+  name = "More"
+  weight = 30
+
+[[main]]
   name = "Michael Song"
   parent = "Team Members"
   pageRef = "michaelsong"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Sam Pollak"
@@ -35,13 +39,31 @@
   name = "Paulo Martinez-Amezaga"
   parent = "Team Members"
   pageRef = "PauloMartinez-Amezaga"
-  weight = 20
+  weight = 30
 
-  [[main]]
+[[main]]
   name = "Sean Blundin"
   parent = "Team Members"
   pageRef = "SeanBlundin"
+  weight = 40
+
+[[main]]
+  name = "About"
+  parent = "More"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Tags"
+  parent = "More"
+  pageRef = "tags"
   weight = 20
+
+[[main]]
+  name = "GitHub"
+  parent = "More"
+  pageRef = "https://github.com/smpollak/MPSS-25su-DoC-Blog"
+  weight = 30
 
 #[[main]]
 #  name = "Blog"

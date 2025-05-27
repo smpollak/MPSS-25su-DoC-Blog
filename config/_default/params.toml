@@ -33,7 +33,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  basic = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -47,8 +47,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   homepageImage = "leuven.jpeg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLink = true
+  showMoreLinkDest = "/MPSS-25su-DoC-Blog/team-posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background

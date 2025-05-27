@@ -1,5 +1,5 @@
 ---
-title: "Professor Sam"
+title: "Sam Pollak"
 ---
 
-Hi, I'm Sam. Whats new
+Hi, I'm Sam. Currently studying Data Science at Northeastern University.

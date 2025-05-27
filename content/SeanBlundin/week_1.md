@@ -3,8 +3,8 @@ title: "What I've Learned in Week 1"
 date: 2025-05-18
 draft: false
 description: "An article reflecting on my first week in Leuven"
-# slug: "first"
-tags: ["authors", "config", "docs"]
+slug: "sean-week-1"
+tags: ["reflections"]
 authors:
   - "sean_blundin"
 showAuthorsBadges : false
