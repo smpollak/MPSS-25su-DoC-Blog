@@ -4,7 +4,7 @@ date: 2025-05-20
 draft: false
 description: "Our proposal for our data literacy app"
 tags: ["project", "updates"]
-slug: "project-phase1-proposal"
+slug: "phase-1"
 authors:
   - "sean_blundin"
   - "paulo_martinez_amezaga"
@@ -13,7 +13,7 @@ authors:
 showAuthorsBadges: false
 ---
 
-# Proposal: Wealth Inequality App
+# Phase I \- Proposal: Wealth Inequality App
 
 ## Project Description
 
