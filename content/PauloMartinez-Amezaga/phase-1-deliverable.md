@@ -10,6 +10,8 @@ authors:
 showAuthorsBadges : false
 ---
 
+
+
 # Phase 1 Deliverable
 Belgium is a wonderful country. I was here in the summer of 2024, but it is exciting to come back and explore the country in an educational context. My first week here has been amazing, I love visiting the governmental instituions and learning about the context of my studies in international politics.
 
