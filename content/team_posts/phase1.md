@@ -17,13 +17,11 @@ showAuthorsBadges: false
 
 ## Project Description
 
-**Problem:** Policymakers, civilians, and economists alike struggle to understand how economic policy—such as minimum wage, tax rates, or interest rates—affects wealth disparity. We are building an interactive app to bring data literacy in policymaking and economics to the average consumer; our app will allow users to intuitively experiment with variables such as minimum wage, unemployment, average income, or corporate tax rate to learn how each might affect wealth disparity (GINI coefficient). 
+**Problem:** Policy papers are frequently black box and inaccesible, often missing voter and data-backed perspectives. Additionally, it is hard to know how economic factors, such as corporate tax rate or government spending, will affect abstract characteristics such as wealth inequality without doing complex analyses or spending a lot of time. 
 
-**Product:** See this [example of an AI-written frontend mockup](https://preview--gini-visualizer-prototype.lovable.app/) to understand what we envision.
-
-Landing on our website, the user finds \~8 input cells, a “Generate” button, and an output cell containing our model’s predicted “Gini Coefficient”. The (approx.) eight fields are the features for our series of models (logistic regression, deep neural network, perhaps more) and the target variable is GINI (a measure of wealth disparity). Since our goal is to empower users to discover how different scenarios affect GINI, our intuitive experience will include presets (such as “Present-Day USA” or “1990s Russia”) which will autofill each cell with the relevant data, which can then be manually edited by the user.
-
-Furthermore, we provide our users with a powerful graphing/visualization feature that enables users to construct graphs of how GINI is affected by the changing of a selected feature variable over a specified range and number of steps. Our product will generate a graph that displays their range along the x axis and GINI on the y axis.
+**Product:** 
+We are building an interactive dicussion-board-like app to bring data literacy in policymaking and economics to the average voter and let politicians and economists reach a wider audience. Our app centers around two components: a social-media-like feed of policy posts, and a data playground that will allow users to see how different metrics affect wealth inequality, or the GINI index. 
+Policy makers/politicians will be able to post policy proposals embedded with machine learning predictions from the data playground, letting them justify how their policies will affect wealth inequality. They will also be able to endorse posts from other politicians that they agree with. Voters will be able to see these posts on a social-media-like feed and interact with them through upvotes, downvotes, or a Q&A section. Additionally, they will be able to play around with the embedded machine learning models in posts by importing them into their own data playgrounds. Economists will have access to a wider suite of machine learning models that can predict metrics besides GINI index, allowing them to give insight on how policies might affect factors besides wealth inequality. They will have their own "Experts Say..." section on posts, allowing them to give expert feedback and information on individual policies. Finally, all users will be able to follow politicians, and be able to filter posts by political affiliation, following, or saved posts.
 
 ## User Personas
 
@@ -51,10 +49,11 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * Does not want to sift through dense policy papers or reports  
     * Wants an easier way to understand the way politicians will affect economic conditions  
   * User stories:  
-    * As a civilian voter that lives in the UK, I want a website with information and characteristics that are relevant to me, such as being able to input the UK as a country.  
+    * As a civilian voter that lives in the UK, I want a website with information and characteristics that are relevant to me, such as personal tax rate or inflation, so that I can learn about how metrics that everday people interact with affects wealth inequality.
     * As a civilian voter, I want a website with straightforward metrics and measures of wealth inequality so that I can learn about how political parties might affect future wealth distribution without keeping up with economic journals and analysts.  
     * As a civilian voter, I want preset inputs, such as the state of the UK in 2001, so that I can compare current metrics to historical economic data without doing my own research about the history of the economy.  
-    * As a civilian voter, I want to be able to input future years and get predicted values for the Gini index so that I can ease my worries about the uncertain direction of our country.
+    * As a civilian voter, I want to be able to ask questions about policies and their effects so that I can more easily understand policies and more directly reach politicians.
+    * As a civilian voter, I want to be able to follow politicians so that I can keep up with the policies of polticians that I agree with.
 
 ### **User Story \#2: Policymaker/Politician**
 
@@ -76,8 +75,9 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * Desires a digestible dashboard to explore economic outcomes without needing deep technical skill  
   * User stories:  
     * As a policymaker, I want to input policy scenarios (such as higher capital gains tax, increased minimum wage, etc.) so that I can see potential long-term impacts on income inequality and GDP.  
-    * As a policymaker, I want a tool that explains economic outcomes in plain language and graphs so that I can quickly summarize insights in briefings and policy memos, while also having the flexibility to go deeper in my explorations  
-    * As a policymaker, I want to compare multiple countries’ policy outcomes side by side so that I can draw evidence from real-world examples when proposing new legislation.
+    * As a policymaker, I want a tool that explains economic outcomes in plain language and easy-to-understand graphs so that I can quickly summarize insights in briefings and policy memos, while also having the flexibility to go deeper in my explorations  
+    * As a policymaker, I want to be able to post my policies to an everyday audience so that I can easily access voters and get their opinions on policy.
+    * As a policymaker, I want to be able to save graphs that I create so that I can separately create graphs and posts without spending time doing them both at the same time.
 
 ### **User Story \#3: Economist**
 
@@ -102,8 +102,9 @@ Furthermore, we provide our users with a powerful graphing/visualization feature
     * Wants an easier way to understand the way politicians will affect economic conditions  
   * User stories:  
     * As an economist, I want to input a wide range of economic variables with granular precision so that I can simulate some different policy scenarios and their effects on the Gini coefficient.  
-    * I want to compare predicted Gini coefficients across multiple countries and time periods to identify trends and outliers that inform policy discussions.  
-    * I want customizable visualization tools to create detailed graphs that clearly communicate the relationships between variables and wealth inequality to diverse audiences.
+    * As an economist, I want to compare predicted Gini coefficients across multiple countries and time periods to identify trends and outliers that inform policy discussions.  
+    * As an economist, I want customizable visualization tools to create detailed graphs that clearly communicate the relationships between variables and wealth inequality to diverse audiences so that 
+    * As an economist, I want to be able to give my expert and academic opinions on policy posts so that I can fact-check politicians and share my informed analyses.
 
 ## Models
 
