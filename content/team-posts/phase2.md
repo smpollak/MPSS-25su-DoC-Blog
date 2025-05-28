@@ -26,7 +26,8 @@ Perhaps unsurprisingly, the direction of our project has radically changed since
 ## Key Updates
 
 * **Drastically expanded scope; data viz app became a policy discussion board**  
-* **Adjacently… New data sources, user stories, & database schema**  
+* **Therefore... new data sources, user stories, & database schema**  
+* **Robust [wireframes](https://docs.google.com/presentation/d/1I43D29irWDKjdgv7hyKC_fu1Bkk4U-9j20mUj9l92jw/edit?usp=sharing) & Relational Models (see below)**
 * **Overhaul of Menu System on our Team Blog site**
 
 *Reminder: Find full updates reflected in our [updated Phase I blog post](../phase-1)*
