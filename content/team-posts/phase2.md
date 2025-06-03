@@ -45,6 +45,9 @@ Seven days ago, our product was a simple data visualization tool. Such a simple 
 
 Although we were initially disappointed that our carefully crafted app idea was dismissed as too limited in scope, we’ve come to appreciate the final result which we have worked towards diligently. It is clear in retrospect that we had been limiting ourselves by focusing too hard on feasibility rather than creativity. With the benefit of hindsight, it’s clear that our initial idea was too simple, and we ultimately made the right decision to drastically expand the aim of our product.
 
+## Our [Wireframe](https://docs.google.com/presentation/d/1I43D29irWDKjdgv7hyKC_fu1Bkk4U-9j20mUj9l92jw/edit?usp=sharing)
+We mapped out almost all of our app's pages, so that others can more easily envision our final product.
+
 ## Data Visualization Models
 
 ### Line Graph of Unemployment & Long-Term Interest Rates Over Time
