@@ -3,7 +3,7 @@ title: "Phase 2 Deliverable Individual Response"
 date: 2025-05-27
 draft: false
 description: "Deliverable phase 2"
-slug: "paulo-first"
+slug: "paulo-second"
 tags: ["reflections"]
 authors:
   - "paulo_martinez_amezaga"

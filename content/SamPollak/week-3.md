@@ -1,9 +1,9 @@
 ---
 title: "Phase III Updates"
-date: 2025-06-
+date: 2025-06-05
 draft: false
 description: "Sam updates the world on his awesome journey"
-slug: "week-2"
+slug: "week-3"
 tags: ["updates"]
 authors:
   - "sam_pollak"
