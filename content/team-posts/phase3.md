@@ -107,3 +107,14 @@ This week was heavily focused on API writing. The Databases team has spent hours
 - Model doesn't connect in data playground
 
 As we’ve undergone this arduous process, we’ve learned many new things along every step of the journey.
+
+| Resource | GET | PUT | POST | DELETE |
+| -------- |---- | ----- | ---- | ------------ |
+| feed/posts/<int:user_id> | gets all feed information needed to populate a user's feed for a particular user | |  |  |
+| landing/users/<int:user_id> | Given user ID, get all user information for session state when needed (primarily the homepage)| |      |     |
+| models/posts/predict/<int:graphID> | Given a graph ID, or the set of features for a graph, returns the predicted gini values. used to populate the posts | | | |
+| models/playground/predict | Given a body, which is a json of all the features of a graph, returns the predicted gini values  |  | | |
+| post_utils/post/<int:post_id>/upvote/<int:user_id>  | | Given a cached user and post ID, upvotes the post by updating numUpvotes for a post and inserts the relevant user and postt ID into the upvotes bridge table  | | Given a cached user and post ID, unupvotes the post by updating numUpvotes for a post and deletes the relevant user and postt ID in the upvotes bridge table |
+| post_utils/post/<int:post_id>/downvote/<int:user_id> | | Given a cached user and post ID, upvotes the post by updating numDownvotes for a post and inserts the relevant user and postt ID into the downvotes bridge table | | Given a cached user and post ID, undownvotes the post by updating numUpvotes for a post and deletes the relevant user and postt ID in the downvotes bridge table  |
+| post_utils/post/<int:post_id>/endorsement/<int:user_id> |  | Given a cached user and post ID, endorses the post by updating numEndorsements for a post and inserts the relevant user and postt ID into the endorsements bridge table |  | Given a cached user and post ID, unendorses the post by updating numEndorsements for a post and deletes the relevant user and postt ID in the endorsements bridge table |
+| post_utils/post/<int:post_id>/bookmark/<int:user_id>    |  | Given a cached user and post ID, bookmarks the post by inserting the relevant user and postt ID into the saved bridge table  |  | Given a cached user and post ID, unbookmarks the post by deleteing the relevant user and postt ID in the saved bridge table  |
