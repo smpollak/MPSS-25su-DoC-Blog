@@ -82,6 +82,7 @@ On the bright side, the relationship between the x values and each residual seem
 ![A slide about model assumptions from our presentation to Sydney](/team_blog/assumptions_presentation_slide.png)
 
 ## Databases & REST API
+*We'll keep this bit short - we're already burnt out from writing APIs `:)`*
 
 ### **Overview**  
 As we continue to both broaden the scope of our product and simultaneously begin the process of building APIs and Streamlit frontends, we are increasingly narrowing in on exactly the feature set and user experience that we wish to deliver. As our ultimate vision becomes clearer, we’ve revised our diagrams, DDL, and API to reflect this adapting vision.
