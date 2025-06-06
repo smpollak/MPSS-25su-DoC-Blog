@@ -83,20 +83,20 @@ On the bright side, the relationship between the x values and each residual seem
 
 ## Databases & REST API
 
-**Overview**  
+### **Overview**  
 As we continue to both broaden the scope of our product and simultaneously begin the process of building APIs and Streamlit frontends, we are increasingly narrowing in on exactly the feature set and user experience that we wish to deliver. As our ultimate vision becomes clearer, we’ve revised our diagrams, DDL, and API to reflect this adapting vision.
 
 This week was heavily focused on API writing. The Databases team has spent hours designing complicated routes that enable the feed’s functioning. For example, Michael built a GET route titled get\_feed, which provides the foundational data to build the user’s feed. See the screenshot below:
 
 ![Michael's flagship API route](/team_blog/michael_motherquery.png)
 
-**Main accomplishments:**
+### **Main accomplishments:**
 
 - [DDL modifications](https://github.com/Yasoop/GINIndicator/commit/39c9ed9305f072e5eb53930d6f69cb11112d0e23)
 - SQL insert statements for fake feed data  
 - API routes to support feed, upvotes/interactions, [data playground](https://github.com/Yasoop/GINIndicator/commit/2aa004c73a94fd2dcc61179e9a2a511db5754011), and model predictions
 
-**Things we know are broken still:**
+### **Things we know are broken still:**
 
 - Simultaneously upvoting and downvoting a post  
 - Role checking for endorsing and up/downvoting  
