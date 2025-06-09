@@ -108,6 +108,8 @@ This week was heavily focused on API writing. The Databases team has spent hours
 
 As we’ve undergone this arduous process, we’ve learned many new things along every step of the journey.
 
+### REST API Matrix
+
 | Resource | GET | PUT | POST | DELETE |
 | -------- |---- | ----- | ---- | ------------ |
 | feed/posts/<int:user_id> | gets all feed information needed to populate a user's feed for a particular user | |  |  |
