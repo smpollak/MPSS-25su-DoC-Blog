@@ -3,7 +3,7 @@ title: "Phase 3 Deliverable Individual Response"
 date: 2025-06-04
 draft: false
 description: "Phase 3 individual response!"
-slug: "michael-second"
+slug: "michael-third"
 tags: ["reflections"]
 authors:
   - "michael_song"
