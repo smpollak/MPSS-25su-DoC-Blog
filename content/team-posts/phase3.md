@@ -31,7 +31,7 @@ The OECD datasets we used include trade union density, combined corporate income
 
 ### Model Results:
 
-The models work surprisingly well! Our logistic regression model had an R^2 score of .741, or .633 when cross-validated. The linear regression model had an R^2 of .763, or ,644 when cross-validated. That being said, there undoubtedly are issues of heteroskedasticity and autocorrelation in the model.
+The models work surprisingly well! Our logistic regression model had an R^2 score of .741, or .633 when cross-validated. The linear regression model had an R^2 of .763, or .644 when cross-validated. That being said, there undoubtedly are issues of heteroskedasticity and autocorrelation in the model.
 
 ![Residual Plot vs. Order](/ResidPlotOrder.png)
 Our data is grouped by country and then ordered by year. As the graph demonstrates, you can see the residual's of an individual country increase or decrease steadily over time. This suggests significant autocorrelation in the data.
