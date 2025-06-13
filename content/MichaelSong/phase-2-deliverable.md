@@ -1,6 +1,6 @@
 ---
 title: "Phase 2 Deliverable Individual Response"
-date: 2025-05-27
+date: 2025-06-01
 draft: false
 description: "Phase 2 individual response!"
 slug: "michael-second"
