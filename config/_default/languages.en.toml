@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "GINIndicator by SQuAD - Official Progress Blog"
+title = "Consensus by SQuAD - Official Progress Blog"
 
 [params]
   displayName = "EN"
